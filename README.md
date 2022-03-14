@@ -1,7 +1,7 @@
 ![Screen Shot 2022-03-13 at 3 39 37 AM](https://user-images.githubusercontent.com/88326256/158055843-a9daef7a-7563-4147-b9d5-f727467d9cb3.png)
 
 
-# Go live to the website through here https://youtube-video-search-app.netlify.app/
+## Go live to the website through here https://youtube-video-search-app.netlify.app/
 
 ## Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
